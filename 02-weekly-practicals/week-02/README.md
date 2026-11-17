@@ -5,6 +5,7 @@
 **Organisation used throughout:** DJI
 **Focus:** Structured risk statements, a preliminary risk register, prioritisation, and risk-treatment ownership for DJI.
 **Connection to the learning sequence:** Builds the Week 1 asset analysis into a risk register that becomes the input to quantitative modelling.
+ 
  index URl：https://fastidious-brioche-20d24d.netlify.app
 ## Completed weekly practical
 
